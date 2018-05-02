@@ -1,0 +1,22 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "a compatibility-based \"FriendFinder\" application",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "body-parser",
+    "path",
+    "htmlRoutes",
+    "node",
+    "npm"
+  ],
+  "author": "Melissa Gilman",
+  "license": "ISC"
+}
