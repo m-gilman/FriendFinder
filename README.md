@@ -7,8 +7,8 @@ This full-stack site takes in results from the users' surveys, then compares the
 The app then displays the name and picture of the user with the best overall match. 
 
 ## Preview the Site here:
-(Coming Soon...)
-https://#.herokuapp.com
+https://m-friendfinder.herokuapp.com/
+
 
 ## Technologies Used
 * Node, NPM
